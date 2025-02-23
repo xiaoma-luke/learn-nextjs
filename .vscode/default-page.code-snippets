@@ -1,0 +1,11 @@
+{
+	"Default page": {
+    "prefix": "default-page",
+    "body": [
+      "export default function Page() {",
+      "  return <p>Page</p>;",
+      "}"
+    ],
+    "description": "Creates a Page component"
+  }
+}
